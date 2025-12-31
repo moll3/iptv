@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://fastly.jsdelivr.net/gh/plsy1/epg@master/e/seven-days.xml.gz" 
+#EXTM3U url-tvg="https://raw.githubusercontent.com/plsy1/epg/main/e/seven-days.xml.gz" 
 #EXTINF:-1 tvg-name="CCTV1" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV1.png" , CCTV1
 http://192.168.0.1:5140/rtp/239.253.222.77:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="CCTV2" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV2.png" , CCTV2
@@ -117,8 +117,6 @@ http://192.168.0.1:5140/rtp/239.253.222.143:8000?fcc=124.132.240.66:15970
 http://192.168.0.1:5140/rtp/239.253.222.144:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="金鹰卡通" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/金鹰卡通.png" , 金鹰卡通
 http://192.168.0.1:5140/rtp/239.253.222.117:8000?fcc=124.132.240.66:15970
-#EXTINF:-1 tvg-name="先锋乒羽" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/先锋乒羽.png" , 先锋乒羽
-http://192.168.0.1:5140/rtp/239.253.222.155:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="河南卫视" group-title="卫视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/河南卫视.png" , 河南卫视
 http://192.168.0.1:5140/rtp/239.253.222.190:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="梨园" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/梨园.png" , 梨园
@@ -331,7 +329,5 @@ http://192.168.0.1:5140/rtp/239.253.222.163:8000?fcc=124.132.240.66:15970
 http://192.168.0.1:5140/rtp/239.253.222.164:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="新动漫" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/新动漫.png" , 新动漫
 http://192.168.0.1:5140/rtp/239.253.222.157:8000?fcc=124.132.240.66:15970
-#EXTINF:-1 tvg-name="财富天下" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/财富天下.png" , 财富天下
-http://192.168.0.1:5140/rtp/239.253.222.230:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="环球旅游" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/环球旅游.png" , 环球旅游
 http://192.168.0.1:5140/rtp/239.253.222.71:8000?fcc=124.132.240.66:15970
